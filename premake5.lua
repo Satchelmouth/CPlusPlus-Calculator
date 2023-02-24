@@ -2,7 +2,7 @@
 workspace "Calculator"
    architecture "x64"
    configurations { "Debug", "Release", "Dist" }
-   startproject "Calculator"
+   startproject "WalnutApp"
 
 outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 
