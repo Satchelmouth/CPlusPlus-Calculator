@@ -1,0 +1,69 @@
+﻿  CalcFunc.cpp
+  CalcIOStreamObj.cpp
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(93,22): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(102,21): warning C4018: '<': signed/unsigned mismatch
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(118,21): warning C4018: '<': signed/unsigned mismatch
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(127,22): warning C4018: '<': signed/unsigned mismatch
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(129,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(173,36): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(179,38): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(194,35): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(263,39): warning C4552: '>': result of expression not used
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(305,23): warning C4018: '<': signed/unsigned mismatch
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(312,15): warning C4018: '<': signed/unsigned mismatch
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(314,25): warning C4018: '<': signed/unsigned mismatch
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(316,40): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalcIOStreamObj.cpp(319,14): warning C4018: '<': signed/unsigned mismatch
+  CalculatorApp.cpp
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(37,21): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkImage'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(37,21): message : A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(37,11): error C2439: 'Walnut::Image::m_Image': member could not be initialized
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(37,11): message : see declaration of 'Walnut::Image::m_Image'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(38,29): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkImageView'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(38,29): message : A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(38,15): error C2439: 'Walnut::Image::m_ImageView': member could not be initialized
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(38,15): message : see declaration of 'Walnut::Image::m_ImageView'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(39,29): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDeviceMemory'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(39,29): message : A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(39,18): error C2439: 'Walnut::Image::m_Memory': member could not be initialized
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(39,18): message : see declaration of 'Walnut::Image::m_Memory'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(40,25): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkSampler'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(40,25): message : A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(40,13): error C2439: 'Walnut::Image::m_Sampler': member could not be initialized
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(40,13): message : see declaration of 'Walnut::Image::m_Sampler'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(44,30): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkBuffer'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(44,30): message : A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(44,12): error C2439: 'Walnut::Image::m_StagingBuffer': member could not be initialized
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(44,12): message : see declaration of 'Walnut::Image::m_StagingBuffer'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(45,42): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDeviceMemory'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(45,42): message : A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(45,18): error C2439: 'Walnut::Image::m_StagingBufferMemory': member could not be initialized
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(45,18): message : see declaration of 'Walnut::Image::m_StagingBufferMemory'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(49,37): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDescriptorSet'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(49,37): message : A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(49,19): error C2439: 'Walnut::Image::m_DescriptorSet': member could not be initialized
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Walnut\src\Walnut\Image.h(49,19): message : see declaration of 'Walnut::Image::m_DescriptorSet'
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalculatorApp.cpp(75,25): warning C4018: '<': signed/unsigned mismatch
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalculatorApp.cpp(228,15): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+E:\Version Controlled\GIT\C++\CPlusPlus-Calculator\Calculator\src\CalculatorApp.cpp(229,16): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+  Generating Code...
