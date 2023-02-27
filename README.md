@@ -3,8 +3,6 @@ I built this calculator as a development project to help me learn c++.
 Feel free to use the code as you wish but be aware that this is based on an IMGUI integration called [Walnut](https://github.com/TheCherno/Walnut). 
 See below for more information on setup and dependancies.
 
-I have no idea why anyone would, but if you got some use out of my code, and fancy buying me a coffee, more caffiene is always welcome >.< https://www.buymeacoffee.com/Satchelmouth
-
 # Walnut
 Walnut is a simple application framework built with Dear ImGui and designed to be used with Vulkan - basically this means you can seemlessly blend real-time Vulkan rendering with a great UI library to build desktop applications. The plan is to expand Walnut to include common utilities to make immediate-mode desktop apps and simple Vulkan applications.
 
